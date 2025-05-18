@@ -1,0 +1,5 @@
+Cohete 1: theta=2,49Pi/8; v=0,99v_escape
+Cohete 2: theta=2,45Pi/8; v=v_escape
+Cohete 3: theta=2,45Pi/8; v=0,999v_escape
+Cohete 4: theta=2,99Pi/8; v=0,991v_escape
+
